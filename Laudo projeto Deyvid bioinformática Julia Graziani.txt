@@ -1,0 +1,32 @@
+﻿Laudo Tumor Pulmonar
+Aluna: Júlia Balarin Graziani
+Bioinformática aplicada à Engenharia Biomédica e Medicina de Precisão (2sem - 2025)
+
+
+
+
+Foram encontradas duas mutações: 
+
+
+1. Gene: EGFR → mutações: L858R
+2. Gene: BRAF → mutações: V600E
+
+
+Sobre os genes: 
+1. EGFR Epidermal Growth Factor Receptor: Também chamado de receptor do fator de crescimento epidérmico é uma proteína transmembrana com atividade de tirosina-quinase, presente na superfície de muitas células epiteliais. Quando o EGFR se liga ao seu ligante (como EGF ou TGF-α), ele ativa vias de sinalização intracelulares, principalmente as vias RAS–RAF–MEK–ERK (proliferação celular) e PI3K–AKT–mTOR (sobrevivência celular). Essas vias controlam o crescimento, diferenciação e reparo tecidual.
+2. BRAF: O gene BRAF (cromossomo 7q34) codifica uma serina/treonina-quinase da via MAPK/ERK, que atua abaixo de RAS e acima de MEK. Sua função é principalmente regular o crescimento, diferenciação e sobrevivência celular.
+
+
+Sobre as mutações: 
+1. L858R: 
+   1. Localização: éxon 21 do gene EGFR, no cromossomo 7 (posição 7p11.2)
+   2. Alteração: substituição de leucina (L) por arginina (R) no códon 858 (Representada como L858R (c.2573T>G)) → exon 21/28 → Essa substituição altera a conformação da domínio tirosina-quinase do EGFR, resultando em ativação constitutiva do receptor, ou seja, ele fica permanentemente ativo mesmo sem o ligante → Consequência: crescimento celular descontrolado e resistência à apoptose.
+   3. Essa mutação é uma das mais comuns em câncer de pulmão não pequenas células (NSCLC), especialmente adenocarcinomas em pacientes não fumantes, mulheres, e pessoas de ascendência asiática
+   4. Tratamento adequado: é interessante a utilização de inibidores de tirosina quinase, mas atualmente tornou-se presente uma nova terapia com os mesmos princípios, o Datopotamab Deruxtecan, que é um anticorpo monoclonal altamente específico com uma droga citotóxica potente, permitindo entregar o quimioterápico diretamente dentro da célula tumoral, poupando o tecido saudável
+
+
+2. V600E: 
+   1. Localização: éxon 15 do gene BRAF
+   2. Alteração: substituição de valina (V) por ácido glutâmico (E) no códon 600 (Representada como V600E (c.1799T>A)) → exon 15/18 → Essa mutação mimetiza a fosforilação ativadora de BRAF, tornando-o constitutivamente ativo, independente de RAS. A via MAPK (RAS–RAF–MEK–ERK) fica ativada de forma permanente → Consequência: proliferação descontrolada e evasão de apoptose.
+   3. Tumores associados: Melanoma cutâneo (40–60% dos casos), Câncer de tireoide papilífero, Câncer colorretal, Câncer de pulmão não pequenas células (em menor frequência)
+   4. Tratamento adequado: é interessante utilizar medicamentos combinados como Dabrafenibe + Trametinibe ou Encorafenibe + Binimetinibe
